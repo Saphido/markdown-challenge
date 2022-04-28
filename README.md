@@ -1,16 +1,18 @@
 
-#### Gatisseur Julien
+# <p align="center"> Gatisseur Julien </p>
 
-* "There is nothing impossible to they who will try.” *
+ <div align="center">
+<img src="me.jpg" alt="me" width="150"/>
 
-![me](me.jpg)
+*"There is nothing impossible to they who will try.”*
+ </div>
 
 ## Me, in one sentence
 
 * :birthday: Birthday: 19/05
 * :rainbow: Favorite color: Red
 * :hamburger: Favorite food: Hamburger
-* :pizza: Pinneapple on pizza: [X]
+* :pizza: Pinneapple on pizza: &#9745;
 
 ## Hobbies
 
@@ -36,22 +38,14 @@
 
 ## You can always count on me when
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
-
 * You need help for something
 
 ## A funny story
 
-Tell a short funny story about your life.
+When i was younger, i found a stray cat, my mother didn't want animals at home so i took it anyway and i hid it in my room, i managed to hide it for 1 week before my mother finds out. And in the end, i was able to keep it because i took care of him alone since 1 week.
 
-# TL;DR (even smaller header, under funny story)
+### TL;DR
 
-Summarise your funny story in one short sentence.
+I found a stray cat that i cannot keep because my mother, i keep it for 1 week hidden in my room, finally, she accepted to me to keep it because i took care of him.
 
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-<< previous || GATISSEUR JULIEN || next >>
+[<< previous](https://pages.github.com/) || GATISSEUR JULIEN || [next >>](https://pages.github.com/)
