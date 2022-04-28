@@ -48,4 +48,4 @@ When i was younger, i found a stray cat, my mother didn't want animals at home s
 
 I found a stray cat that i cannot keep because my mother, i keep it for 1 week hidden in my room, finally, she accepted to me to keep it because i took care of him.
 
-[<< previous](https://pages.github.com/) || GATISSEUR JULIEN || [next >>](https://pages.github.com/)
+[<< previous](https://github.com/MrOlivierdA/markdown-challenge) || GATISSEUR JULIEN || [next >>](https://github.com/henrihals/markdown-challenge)
